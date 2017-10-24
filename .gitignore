@@ -24,3 +24,6 @@ erl_crash.dump
 /config/prod.secret.exs
 /config/dev.exs
 /.idea/
+/.elixir_ls/
+/.vscode/
+.DS_Store
